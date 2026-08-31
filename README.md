@@ -12,7 +12,7 @@
 
 # 👋 Hi, I'm **Bhabesh Saha**
 
-### UI Technical Lead • Frontend Architect • Instructor
+### UI Technical Lead • Frontend Architect • Instructor • Teaching frontend technology
 
 **Building scalable enterprise frontends • Leading engineering teams • Teaching frontend technology**
 
