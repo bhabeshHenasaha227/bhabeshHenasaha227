@@ -331,9 +331,9 @@ Developed News and Weather infotainment applications and improved user experienc
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=bhabeshHenasaha227&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+<!-- <img height="175" src="https://github-readme-stats.vercel.app/api?username=bhabeshHenasaha227&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhabeshHenasaha227&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhabeshHenasaha227&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" /> -->
 
 <br/><br/>
 
