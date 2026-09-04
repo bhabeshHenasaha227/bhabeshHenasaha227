@@ -95,10 +95,15 @@ I build and lead **enterprise-scale frontend systems** that are maintainable, re
 
 # 🛠️ Technology Stack
 
-## ⚡ Frontend Engineering
+## ⚡ Frontend & Full Stack Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,html,css,sass,tailwind,bootstrap,redux,figma" alt="Frontend skills" />
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,html,css,sass,tailwind,bootstrap,redux,figma,mongodb,express,nodejs" alt="Frontend and Fullstack skills" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/MERN_Stack-MongoDB%20%7C%20Express%20%7C%20React%20%7C%20Node-00ED64?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack" />
+<img src="https://img.shields.io/badge/MEAN_Stack-MongoDB%20%7C%20Express%20%7C%20Angular%20%7C%20Node-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="MEAN Stack" />
 </p>
 
 `React 18/19` • `React Native` • `Angular 2–18` • `Next.js` • `TypeScript` • `JavaScript ES6+` • `HTML5` • `CSS3` • `SCSS` • `Tailwind CSS` • `Bootstrap` • `PrimeNG` • `PrimeFlex` • `AG-Grid` • `Redux` • `NGRX` • `RxJS` • `Context API`
